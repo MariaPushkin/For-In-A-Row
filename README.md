@@ -10,7 +10,9 @@
 ИИ компьютера реализован с помощью алгоритма минимакс.<br>
 
 <h2>Главный экран игры:</h2>
+
 ![Главный экран игры](https://github.com/MariaPushkin/For-In-A-Row/blob/master/Screenshots/main.PNG)
 
-<h2>окно статистики:</h2>
+<h2>Окно статистики:</h2>
+
 ![Окно статистики](https://github.com/MariaPushkin/For-In-A-Row/blob/master/Screenshots/statistics.PNG)
